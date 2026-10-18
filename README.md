@@ -2,7 +2,7 @@
 
 Ders çalışma görevlerini takip etmek için geliştirilmiş bir React uygulaması. Görev ekleyebilir, listeleyip filtreleyebilir, düzenleyebilir, tamamlandı olarak işaretleyebilir ve silebilirsiniz. Veriler tarayıcının **LocalStorage**'ında saklanır.
 
-**Canlı demo:** _Netlify bağlantısı buraya_
+**Canlı demo:** https://odak-planlayici.netlify.app
 
 ![Görev listesi](ekran-goruntuleri/1-gorev-listesi.png)
 
